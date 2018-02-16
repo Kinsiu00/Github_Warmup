@@ -9,3 +9,13 @@ console.log(arrayMe);
 
 arrayMe.unshift("me first");
 console.log(arrayMe);
+
+
+let me = {
+  awake: true,
+  learning: true,
+  comprehension: false
+
+}
+
+console.log(me)
